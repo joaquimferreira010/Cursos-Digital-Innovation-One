@@ -1,0 +1,2 @@
+Link para dowload do SDK (kit de desenvolvimento de software): 
+https://dotnet.microsoft.com/download
