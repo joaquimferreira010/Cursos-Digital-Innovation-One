@@ -1,0 +1,16 @@
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\Revisao\bin\Debug\net5.0\Revisao.exe
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\Revisao\bin\Debug\net5.0\Revisao.deps.json
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\Revisao\bin\Debug\net5.0\Revisao.dll
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\Revisao\bin\Debug\net5.0\Revisao.pdb
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\Revisao\obj\Debug\net5.0\Revisao.csproj.AssemblyReference.cache
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\Revisao\obj\Debug\net5.0\Revisao.dll
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\Revisao\obj\Debug\net5.0\Revisao.pdb
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache

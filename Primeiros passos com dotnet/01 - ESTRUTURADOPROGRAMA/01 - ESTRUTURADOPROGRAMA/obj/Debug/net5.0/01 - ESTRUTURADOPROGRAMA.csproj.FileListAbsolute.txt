@@ -1,0 +1,16 @@
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\01 - ESTRUTURADOPROGRAMA\01 - ESTRUTURADOPROGRAMA\bin\Debug\net5.0\01 - ESTRUTURADOPROGRAMA.exe
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\01 - ESTRUTURADOPROGRAMA\01 - ESTRUTURADOPROGRAMA\bin\Debug\net5.0\01 - ESTRUTURADOPROGRAMA.deps.json
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\01 - ESTRUTURADOPROGRAMA\01 - ESTRUTURADOPROGRAMA\bin\Debug\net5.0\01 - ESTRUTURADOPROGRAMA.runtimeconfig.json
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\01 - ESTRUTURADOPROGRAMA\01 - ESTRUTURADOPROGRAMA\bin\Debug\net5.0\01 - ESTRUTURADOPROGRAMA.runtimeconfig.dev.json
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\01 - ESTRUTURADOPROGRAMA\01 - ESTRUTURADOPROGRAMA\bin\Debug\net5.0\01 - ESTRUTURADOPROGRAMA.dll
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\01 - ESTRUTURADOPROGRAMA\01 - ESTRUTURADOPROGRAMA\bin\Debug\net5.0\ref\01 - ESTRUTURADOPROGRAMA.dll
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\01 - ESTRUTURADOPROGRAMA\01 - ESTRUTURADOPROGRAMA\bin\Debug\net5.0\01 - ESTRUTURADOPROGRAMA.pdb
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\01 - ESTRUTURADOPROGRAMA\01 - ESTRUTURADOPROGRAMA\obj\Debug\net5.0\01 - ESTRUTURADOPROGRAMA.csprojAssemblyReference.cache
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\01 - ESTRUTURADOPROGRAMA\01 - ESTRUTURADOPROGRAMA\obj\Debug\net5.0\01 - ESTRUTURADOPROGRAMA.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\01 - ESTRUTURADOPROGRAMA\01 - ESTRUTURADOPROGRAMA\obj\Debug\net5.0\01 - ESTRUTURADOPROGRAMA.AssemblyInfoInputs.cache
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\01 - ESTRUTURADOPROGRAMA\01 - ESTRUTURADOPROGRAMA\obj\Debug\net5.0\01 - ESTRUTURADOPROGRAMA.AssemblyInfo.cs
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\01 - ESTRUTURADOPROGRAMA\01 - ESTRUTURADOPROGRAMA\obj\Debug\net5.0\01 - ESTRUTURADOPROGRAMA.csproj.CoreCompileInputs.cache
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\01 - ESTRUTURADOPROGRAMA\01 - ESTRUTURADOPROGRAMA\obj\Debug\net5.0\01 - ESTRUTURADOPROGRAMA.dll
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\01 - ESTRUTURADOPROGRAMA\01 - ESTRUTURADOPROGRAMA\obj\Debug\net5.0\ref\01 - ESTRUTURADOPROGRAMA.dll
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\01 - ESTRUTURADOPROGRAMA\01 - ESTRUTURADOPROGRAMA\obj\Debug\net5.0\01 - ESTRUTURADOPROGRAMA.pdb
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Primeiros passos com dotnet\01 - ESTRUTURADOPROGRAMA\01 - ESTRUTURADOPROGRAMA\obj\Debug\net5.0\01 - ESTRUTURADOPROGRAMA.genruntimeconfig.cache
