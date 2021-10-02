@@ -1,2 +1,7 @@
 Link para dowload do SDK (kit de desenvolvimento de software): 
 https://dotnet.microsoft.com/download
+
+
+Comando para verificar as versões do SDK .net instaldos no micro: 
+dotnet --list-sdks
+

@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "Y:\\Cursos e Treinamentos\\DIO\\Cursos-Digital-Innovation-One\\Primeiros passos com dotnet\\DigitalInnovationOne\\DigitalInnovationOne.csproj": {}
+  },
+  "projects": {
+    "Y:\\Cursos e Treinamentos\\DIO\\Cursos-Digital-Innovation-One\\Primeiros passos com dotnet\\DigitalInnovationOne\\DigitalInnovationOne.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Y:\\Cursos e Treinamentos\\DIO\\Cursos-Digital-Innovation-One\\Primeiros passos com dotnet\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
+        "projectName": "DigitalInnovationOne",
+        "projectPath": "Y:\\Cursos e Treinamentos\\DIO\\Cursos-Digital-Innovation-One\\Primeiros passos com dotnet\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
+        "packagesPath": "C:\\Users\\p017465\\.nuget\\packages\\",
+        "outputPath": "Y:\\Cursos e Treinamentos\\DIO\\Cursos-Digital-Innovation-One\\Primeiros passos com dotnet\\DigitalInnovationOne\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\p017465\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\10.10.72.5\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21463.6\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
