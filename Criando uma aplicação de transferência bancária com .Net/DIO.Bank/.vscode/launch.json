@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": ".Net Core Launch (Console)",
+            "type": "pwa-node",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/bin/Debug/net5.0/DIO.banck.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}", 
+            "console": "externalTerminal", 
+            "stopOnEntry": false,
+            "internalConsoleOptions": "openOnSessionStart"
+
+        }, 
+        {
+
+            "name": ".Net Core Attach",
+            "type": "pwa-node", 
+            "request": "attach", 
+            "processId": "${command:PickProcess}"
+        }
+
+
+
+    ]
+}

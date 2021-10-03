@@ -1,0 +1,16 @@
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Criando uma aplicação de transferência bancária com .Net\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Criando uma aplicação de transferência bancária com .Net\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Criando uma aplicação de transferência bancária com .Net\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Criando uma aplicação de transferência bancária com .Net\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Criando uma aplicação de transferência bancária com .Net\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Criando uma aplicação de transferência bancária com .Net\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Criando uma aplicação de transferência bancária com .Net\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Criando uma aplicação de transferência bancária com .Net\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.AssemblyReference.cache
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Criando uma aplicação de transferência bancária com .Net\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Criando uma aplicação de transferência bancária com .Net\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Criando uma aplicação de transferência bancária com .Net\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Criando uma aplicação de transferência bancária com .Net\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Criando uma aplicação de transferência bancária com .Net\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Criando uma aplicação de transferência bancária com .Net\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Criando uma aplicação de transferência bancária com .Net\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+Y:\Cursos e Treinamentos\DIO\Cursos-Digital-Innovation-One\Criando uma aplicação de transferência bancária com .Net\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
